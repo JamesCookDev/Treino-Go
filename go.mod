@@ -1,4 +1,4 @@
-module example/hello
+module github.com/JamesCookDev/Treino-Go
 
 go 1.24.4
 
